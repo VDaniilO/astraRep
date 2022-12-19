@@ -10,9 +10,9 @@
 
 ## How start game:
 
- * Input how much bullet you want load in your clip
- * Input positione bullet in your clip
- * Stop spin when you whant with button '1' on your keyboard
+ 1. Input how much bullet you want load in your clip
+ 2. Input positione bullet in your clip
+ 3. Stop spin when you whant with button '1' on your keyboard
 
-P.S.:
-pls run this console app in 183x48 screen resolution
+`P.S.:
+pls run this console app in 183x48 screen resolution`
