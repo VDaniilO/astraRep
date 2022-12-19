@@ -8,11 +8,8 @@
   
   `python3 rusRulette.py`
 
-## Rules:
-  
-  `
-  1 - How mouch bullets you want load into the gun
-  2 - Choise where your bullet will be in your clip
-  3 - When clip will start spin you should stop that with number 1 on your keyboard 
-  4 - And the last one HAVE FUN!)
-  `
+## How start game:
+
+  1 - Input how much bullet you want load in your clip
+  2 - Input positione bullet in your clip
+  3 - Stop spin when you whant with button '1' on your keyboard
