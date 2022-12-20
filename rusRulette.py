@@ -22,9 +22,9 @@ def game(bullets: int, positin: str) -> str:
         if keyboard.is_pressed('1'):
             res = pistol_clip.get(count)
             if res:
-                return 'YOU WILL LIVE!'
-            else:
                 return 'YOU DIE!'
+            else:
+                return 'YOU WILL LIVE!'
     
 print(f"""
         {pyfiglet.figlet_format("Welcome to Russian Roulette")}
